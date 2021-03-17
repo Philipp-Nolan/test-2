@@ -1,0 +1,24 @@
+.view {
+}
+
+.view-wrapper {
+  border: 1px solid green;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.view-img {
+  width: 480px;
+  height: 480px;
+  object-position: center;
+  object-fit: cover;
+  cursor: pointer;
+}
+.view-img:hover {
+  content: url('../img/view.svg');
+  background: #34547a;
+  width: 480px;
+  height: 480px;
+  transition-duration: 1.5s;
+}

@@ -1,0 +1,13 @@
+footer {
+  background-color: #34547a;
+}
+.footer-wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+.network-img {
+  color: white;
+  font-size: 55px;
+}

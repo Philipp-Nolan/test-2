@@ -1,0 +1,13 @@
+.clients {
+  margin-top: 72px;
+  margin-bottom: 100px;
+}
+.clients-list {
+  display: flex;
+  justify-items: space-evenly;
+}
+.clients-item img {
+  width: 255px;
+  height: 120px;
+  margin-left: 30px;
+}

@@ -1,0 +1,26 @@
+.video {
+  margin-top: 57px;
+  margin-bottom: 128px;
+  display: flex;
+  justify-content: center;
+}
+.video-wrapper {
+  width: 1110px;
+  height: 600px;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid green;
+}
+.video-img {
+  object-position: center;
+  object-fit: cover;
+}
+
+.video-play {
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  position: absolute;
+}

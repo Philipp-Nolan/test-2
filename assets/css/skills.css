@@ -1,0 +1,26 @@
+.skills {
+  margin-top: 102px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.item-paragraph {
+  margin-bottom: 20px;
+}
+.skills-statistics {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 150px;
+}
+.solid {
+  width: 349.36px;
+  height: 4px;
+  background: linear-gradient(90deg, #34547a 55%, #c4c4c4 0%);
+  margin-bottom: 20px;
+}
+
+.skills-img {
+  width: 555px;
+  height: 450px;
+}
